@@ -43,12 +43,14 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
-<img width="1850" height="801" alt="Screenshot 2025-10-25 141218" src="https://github.com/user-attachments/assets/b717dbc5-43fc-4661-b39d-b5f96097e229" />
+<img width="1850" height="801" alt="Screenshot 2025-10-25 141218" src="https://github.com/user-attachments/assets/202cc829-917a-42cc-b1d0-1d752aafcce2" />
+
 
 
 ## Output
-<img width="1917" height="922" alt="Screenshot 2025-10-25 140751" src="https://github.com/user-attachments/assets/4b1a56cc-412d-44c6-a0fe-6a0d77b6347a" />
+<img width="1915" height="922" alt="Screenshot 2025-10-25 143800" src="https://github.com/user-attachments/assets/b2a246e6-30fb-437a-8bf2-baf71aa60478" />
 
 
 ## Result
-Thus, single phase inverter circuit was designed, simulated and analysed using MATLAB Simulink.
+Thus, three full wave controlled rectifier circuit was designed, simulated and analysed using MATLAB Simulink. 
+
